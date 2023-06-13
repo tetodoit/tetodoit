@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tetodoit
+- 👋 Hi, I’m @Tarek Ahmed
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on learning
